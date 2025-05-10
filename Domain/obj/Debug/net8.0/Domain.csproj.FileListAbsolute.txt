@@ -1,0 +1,11 @@
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\bin\Debug\net8.0\Domain.dll
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\obj\Debug\net8.0\Domain.dll
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Thực tập công ty Nextx\ArchitectureForAsp\OnionArchitecture\Domain\obj\Debug\net8.0\ref\Domain.dll
